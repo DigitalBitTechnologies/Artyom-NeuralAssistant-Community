@@ -1,4 +1,4 @@
-<p align="center" width="100%"><img src="/Logo/RoundLogo_512.png"></p>
+<p align="center" width="256" height="256"><img src="/Logo/RoundLogo_512.png"></p>
 
 <h1 align="center">Артём - нейронный ассистент</h1>
 
